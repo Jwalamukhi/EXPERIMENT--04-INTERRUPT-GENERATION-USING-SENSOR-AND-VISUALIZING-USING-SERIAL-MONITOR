@@ -1,10 +1,10 @@
 ###  DATE: 
-###  NAME: Ponguru Aasrith Sairam
-###  ROLL NO : 212223240116
-###  DEPARTMENT: AIML
+###  NAME: Jwalamukhi S
+###  ROLL NO : 212223040079
+###  DEPARTMENT: CSE
 
 
-# EXPERIMENT--04-INTERUPT-GENRATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
+# EXPERIMENT--04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
